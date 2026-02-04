@@ -31,4 +31,4 @@ All rights and design inspiration belong to **Amazon**.
 
 ## 👩‍💻 Author
 **Iqra Khatoon**  
-Aspiring Full-Stack Web Developer (MERN)  
+Aspiring Full-Stack Web Developer (MERN)
