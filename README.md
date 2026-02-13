@@ -3,6 +3,11 @@
 This project is a frontend **UI clone of the Amazon homepage**, built using **HTML and CSS**.  
 It was created during my learning phase to practice **layout design, styling, and responsive structure**.
 
+## 📸 UI Preview
+<img width="1588" height="2419" alt="Amazon-clone-desktop jpg" src="https://github.com/user-attachments/assets/b96d735c-c3b1-4225-aa42-5b4ae483a4ec" />
+
+
+
 ## 🚀 Features
 
 - Amazon-style homepage layout
